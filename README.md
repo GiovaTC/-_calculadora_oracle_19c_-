@@ -1,7 +1,9 @@
 # CalculadoraOracle
 ## Proyecto Java 21 + IntelliJ IDEA + Oracle Database 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4ce4da5-ca8f-460d-bb4b-c767a08636c5" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4ce4da5-ca8f-460d-bb4b-c767a08636c5" />       
+
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/9b44e802-a498-4d2e-a470-e09a669aabd6" />       
 
 ```
 Calculadora de consola desarrollada con **Java 21**, utilizando **Oracle Database 19c** como motor de persistencia y siguiendo una **arquitectura por capas** .
